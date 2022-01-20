@@ -10,7 +10,7 @@ l = ''.join([random.choice(last_name) for i in range(1)])
 m = ''.join([random.choice(middle_name) for o in range(1)])
 
 with open('random_fio.txt', 'a') as file:
-    file.write('\nФамилия: ' + l + '\nИмя: ' + n + '\nОтчество: ' + m)
+    file.write('\nФамилия: ' + l + '.' + '\nИмя: ' + n + '.' + '\nОтчество: ' + m + '.')
     file.close()
 
 files = open('random_fio.txt')

@@ -1,6 +1,6 @@
-Фамилия: Emma
-Имя: Bailey
-Отчество: Johnson
-Фамилия: Michael
-Имя: Brown
-Отчество: Brown
+Фамилия: Ariel.
+Имя: Allen.
+Отчество: Moore.
+Фамилия: Chloe.
+Имя: Bailey.
+Отчество: Taylor.
